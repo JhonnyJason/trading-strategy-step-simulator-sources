@@ -8,5 +8,6 @@ debugmodule.initialize = () ->
 debugmodule.modulesToDebug = 
     unbreaker: true
     configmodule: true
+    robustarbitragemodule: true
 
 export default debugmodule
